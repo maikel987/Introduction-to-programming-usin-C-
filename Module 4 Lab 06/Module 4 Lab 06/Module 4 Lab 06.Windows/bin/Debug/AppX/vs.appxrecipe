@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-34PECHL</Machine>
+    <WindowsUser>Owner</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>478d8c53-43ca-4272-97d1-e8b11b076d5d</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Owner</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\owner\documents\visual studio 2015\Projects\Module 4 Lab 06\Module 4 Lab 06\Module 4 Lab 06.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>9E8662EA856F706874A094A155D68487255E00A596B152D458CDBF8749943163</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>478d8c53-43ca-4272-97d1-e8b11b076d5d_1.0.0.0_neutral__ckpvgz13cfhxc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>478d8c53-43ca-4272-97d1-e8b11b076d5d_ckpvgz13cfhxc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>478d8c53-43ca-4272-97d1-e8b11b076d5d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Owner</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\owner\documents\visual studio 2015\Projects\Module 4 Lab 06\Module 4 Lab 06\Module 4 Lab 06.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-25T08:41:00.015</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\owner\documents\visual studio 2015\Projects\Module 4 Lab 06\Module 4 Lab 06\Module 4 Lab 06.Windows\bin\Debug\Module 4 Lab 06.Windows.exe">
+      <PackagePath>Module 4 Lab 06.Windows.exe</PackagePath>
+      <Modified>2017-10-25T08:40:59.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\owner\documents\visual studio 2015\Projects\Module 4 Lab 06\Module 4 Lab 06\Module 4 Lab 06.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\owner\documents\visual studio 2015\Projects\Module 4 Lab 06\Module 4 Lab 06\Module 4 Lab 06.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\owner\documents\visual studio 2015\Projects\Module 4 Lab 06\Module 4 Lab 06\Module 4 Lab 06.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\owner\documents\visual studio 2015\Projects\Module 4 Lab 06\Module 4 Lab 06\Module 4 Lab 06.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\owner\documents\visual studio 2015\Projects\Module 4 Lab 06\Module 4 Lab 06\Module 4 Lab 06.Windows\bin\Debug\Module 4 Lab 06.Windows.xr.xml">
+      <PackagePath>Module 4 Lab 06.Windows.xr.xml</PackagePath>
+      <Modified>2017-10-25T08:40:58.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\owner\documents\visual studio 2015\Projects\Module 4 Lab 06\Module 4 Lab 06\Module 4 Lab 06.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-10-25T08:40:59.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\owner\documents\visual studio 2015\Projects\Module 4 Lab 06\Module 4 Lab 06\Module 4 Lab 06.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-10-25T08:40:59.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\owner\documents\visual studio 2015\Projects\Module 4 Lab 06\Module 4 Lab 06\Module 4 Lab 06.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-25T08:40:59.705</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
