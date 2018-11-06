@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="Module_6_Lab07.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Module_6_Lab07"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="186,72,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Grid.Row="1" Height="100" Width="200" FontSize="50"/>
+        <TextBox x:Name="textBox1" Margin="541,72,625,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Grid.Row="1" Height="100" FontSize="50" Width="200"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Margin="949,72,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Grid.Row="1" Height="100" Width="200" FontSize="50"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="79,262,0,0" Grid.RowSpan="2" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="1220" Height="100" FontSize="50"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="79,419,0,0" Grid.RowSpan="2" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="1220" Height="100" FontSize="50"/>
+        <Button x:Name="button" Content="Get Greatest Number" HorizontalAlignment="Left" Margin="268,570,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="821" Height="150" FontSize="50" Click="button_Click"/>
+
+    </Grid>
+</Page>
