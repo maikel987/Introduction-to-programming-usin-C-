@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Lab 07\Module 08 Lab 07\bin\Debug\Module 08 Lab 07.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Lab 07\Module 08 Lab 07\bin\Debug\Module 08 Lab 07.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Lab 07\Module 08 Lab 07\bin\Debug\Module 08 Lab 07.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Lab 07\Module 08 Lab 07\obj\Debug\Module 08 Lab 07.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Lab 07\Module 08 Lab 07\obj\Debug\Module 08 Lab 07.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Lab 07\Module 08 Lab 07\obj\Debug\Module 08 Lab 07.pdb

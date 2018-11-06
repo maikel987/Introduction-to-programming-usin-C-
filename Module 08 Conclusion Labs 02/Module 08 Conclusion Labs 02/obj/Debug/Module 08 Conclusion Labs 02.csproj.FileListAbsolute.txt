@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Conclusion Labs 02\Module 08 Conclusion Labs 02\bin\Debug\Module 08 Conclusion Labs 02.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Conclusion Labs 02\Module 08 Conclusion Labs 02\bin\Debug\Module 08 Conclusion Labs 02.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Conclusion Labs 02\Module 08 Conclusion Labs 02\bin\Debug\Module 08 Conclusion Labs 02.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Conclusion Labs 02\Module 08 Conclusion Labs 02\obj\Debug\Module 08 Conclusion Labs 02.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Conclusion Labs 02\Module 08 Conclusion Labs 02\obj\Debug\Module 08 Conclusion Labs 02.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Conclusion Labs 02\Module 08 Conclusion Labs 02\obj\Debug\Module 08 Conclusion Labs 02.pdb

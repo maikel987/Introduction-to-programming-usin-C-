@@ -1,0 +1,5 @@
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Labs 10\Module 08 Labs 10\bin\Debug\Module 08 Labs 10.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Labs 10\Module 08 Labs 10\bin\Debug\Module 08 Labs 10.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Labs 10\Module 08 Labs 10\bin\Debug\Module 08 Labs 10.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Labs 10\Module 08 Labs 10\obj\Debug\Module 08 Labs 10.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\4.11.17\Module 08 Labs 10\Module 08 Labs 10\obj\Debug\Module 08 Labs 10.pdb
