@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SHACHAM8</Machine>
+    <WindowsUser>944</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a58a3b1a-0e17-4501-9e87-6f133d94098a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=dmitria</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\Module 04\Module 04\FinalLabsSolutions\StopWatch\Starter\StopWatch\StopWatch\StopWatch.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>8AF528F691FFD26FC171D2B727DBA52EE02B7BBE35BECF64E58D7578D8CB50AC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a58a3b1a-0e17-4501-9e87-6f133d94098a_1.0.0.0_neutral__jmenv66b6t3h0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a58a3b1a-0e17-4501-9e87-6f133d94098a_jmenv66b6t3h0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a58a3b1a-0e17-4501-9e87-6f133d94098a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=dmitria</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\Module 04\Module 04\FinalLabsSolutions\StopWatch\Starter\StopWatch\StopWatch\StopWatch.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-19T21:22:58.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\Module 04\Module 04\FinalLabsSolutions\StopWatch\Starter\StopWatch\StopWatch\StopWatch.Windows\bin\Debug\StopWatch.Windows.exe">
+      <PackagePath>StopWatch.Windows.exe</PackagePath>
+      <Modified>2017-10-23T14:25:34.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\Module 04\Module 04\FinalLabsSolutions\StopWatch\Starter\StopWatch\StopWatch\StopWatch.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-28T06:06:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\Module 04\Module 04\FinalLabsSolutions\StopWatch\Starter\StopWatch\StopWatch\StopWatch.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-28T06:06:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\Module 04\Module 04\FinalLabsSolutions\StopWatch\Starter\StopWatch\StopWatch\StopWatch.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-28T06:06:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\Module 04\Module 04\FinalLabsSolutions\StopWatch\Starter\StopWatch\StopWatch\StopWatch.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-28T06:06:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\Module 04\Module 04\FinalLabsSolutions\StopWatch\Starter\StopWatch\StopWatch\StopWatch.Windows\bin\Debug\StopWatch.Windows.xr.xml">
+      <PackagePath>StopWatch.Windows.xr.xml</PackagePath>
+      <Modified>2017-10-19T21:22:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\Module 04\Module 04\FinalLabsSolutions\StopWatch\Starter\StopWatch\StopWatch\StopWatch.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-09-14T12:16:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\Module 04\Module 04\FinalLabsSolutions\StopWatch\Starter\StopWatch\StopWatch\StopWatch.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-10-23T14:23:47.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\Module 04\Module 04\FinalLabsSolutions\StopWatch\Starter\StopWatch\StopWatch\StopWatch.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-19T21:22:58.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
