@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="Calculator.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Calculator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock Height="100" HorizontalAlignment="Left" Margin="100,100,0,0" Name="txtNum1" Text="Num1:" VerticalAlignment="Top" FontSize="100" />
+        <TextBlock Height="100" HorizontalAlignment="Left" Margin="100,250,0,0" Name="txtNum2" Text="Num2:" VerticalAlignment="Top" FontSize="100" />
+        <TextBlock Height="100" HorizontalAlignment="Left" Margin="100,400,0,0" Name="txtResultHeadline" Text="Result:" VerticalAlignment="Top" FontSize="100" />
+        <TextBlock Height="100" HorizontalAlignment="Left" Margin="500,400,0,0" Name="txtResult" Text="" VerticalAlignment="Top" FontSize="100" />
+        <Button Content="+" Height="150" HorizontalAlignment="Left" Margin="97,600,0,0" Name="btnAdd" VerticalAlignment="Top" Width="150" Click="OnAddHandler" FontSize="80" />
+        <Button Content="-" Height="150" HorizontalAlignment="Left" Margin="285,600,0,0" Name="btnSub" VerticalAlignment="Top" Width="150" Click="OnSubHandler" FontSize="80" />
+        <Button Content="*" Height="150" HorizontalAlignment="Left" Margin="470,600,0,0" Name="btnMult" VerticalAlignment="Top" Width="150" Click="OnMultHandler" FontSize="80" />
+        <Button Content="/" Height="150" HorizontalAlignment="Left" Margin="655,600,0,0" Name="btnDiv" VerticalAlignment="Top" Width="150" Click="OnDivHandler" FontSize="80" />
+        <TextBox Height="127" HorizontalAlignment="Left" Margin="500,73,0,0" Name="tbxNum1" VerticalAlignment="Top" Width="300" FontSize="100" />
+        <TextBox Height="123" HorizontalAlignment="Left" Margin="500,250,0,0" Name="tbxNum2" VerticalAlignment="Top" Width="300" FontSize="100" />
+    </Grid>
+</Page>
