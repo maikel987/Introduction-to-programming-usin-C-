@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SHACHAM8</Machine>
+    <WindowsUser>944</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>754e5181-ee17-42e8-916a-32b0f52d883a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=dmitria</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\HomeWork\downloadExercise1\Module 03\ConclusionLabsSolution\Module03_ConclusionLab01 - Starter\Module03_ConclusionLab01\Module03_ConclusionLab01.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>DB61BFACA545E91B617DD77C1230FFF5AEBE53A297A384F14FDD1F5513D09D92</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>754e5181-ee17-42e8-916a-32b0f52d883a_1.0.0.0_neutral__jmenv66b6t3h0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>754e5181-ee17-42e8-916a-32b0f52d883a_jmenv66b6t3h0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>754e5181-ee17-42e8-916a-32b0f52d883a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=dmitria</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\HomeWork\downloadExercise1\Module 03\ConclusionLabsSolution\Module03_ConclusionLab01 - Starter\Module03_ConclusionLab01\Module03_ConclusionLab01.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-19T13:47:30.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\HomeWork\downloadExercise1\Module 03\ConclusionLabsSolution\Module03_ConclusionLab01 - Starter\Module03_ConclusionLab01\Module03_ConclusionLab01.Windows\bin\Debug\Module03_ConclusionLab01.Windows.exe">
+      <PackagePath>Module03_ConclusionLab01.Windows.exe</PackagePath>
+      <Modified>2017-10-23T14:14:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HomeWork\downloadExercise1\Module 03\ConclusionLabsSolution\Module03_ConclusionLab01 - Starter\Module03_ConclusionLab01\Module03_ConclusionLab01.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-19T08:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HomeWork\downloadExercise1\Module 03\ConclusionLabsSolution\Module03_ConclusionLab01 - Starter\Module03_ConclusionLab01\Module03_ConclusionLab01.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-19T08:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HomeWork\downloadExercise1\Module 03\ConclusionLabsSolution\Module03_ConclusionLab01 - Starter\Module03_ConclusionLab01\Module03_ConclusionLab01.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-19T08:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HomeWork\downloadExercise1\Module 03\ConclusionLabsSolution\Module03_ConclusionLab01 - Starter\Module03_ConclusionLab01\Module03_ConclusionLab01.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-19T08:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HomeWork\downloadExercise1\Module 03\ConclusionLabsSolution\Module03_ConclusionLab01 - Starter\Module03_ConclusionLab01\Module03_ConclusionLab01.Windows\bin\Debug\Module03_ConclusionLab01.Windows.xr.xml">
+      <PackagePath>Module03_ConclusionLab01.Windows.xr.xml</PackagePath>
+      <Modified>2017-10-19T14:07:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HomeWork\downloadExercise1\Module 03\ConclusionLabsSolution\Module03_ConclusionLab01 - Starter\Module03_ConclusionLab01\Module03_ConclusionLab01.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-10-19T13:47:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HomeWork\downloadExercise1\Module 03\ConclusionLabsSolution\Module03_ConclusionLab01 - Starter\Module03_ConclusionLab01\Module03_ConclusionLab01.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-10-19T14:28:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HomeWork\downloadExercise1\Module 03\ConclusionLabsSolution\Module03_ConclusionLab01 - Starter\Module03_ConclusionLab01\Module03_ConclusionLab01.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-19T13:47:30.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

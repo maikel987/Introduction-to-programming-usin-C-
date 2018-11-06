@@ -1,0 +1,68 @@
+﻿<Page
+    x:Class="Module03_ConclusionLab01.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Module03_ConclusionLab01"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="600" Width="900">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="150" />
+            <RowDefinition Height="400" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300" />
+            <ColumnDefinition Width="300" />
+            <ColumnDefinition Width="300" />
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Color" FontSize="20" />
+        <TextBlock Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Size" FontSize="20" />
+        <TextBlock Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Move" FontSize="20" />
+        <Grid Grid.Row="1" Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <RadioButton x:ConnectionId='8' Grid.Row="0" Grid.Column="0" Margin="5,23,0,23" Background="Yellow" Foreground="Black" Content="Yellow" Name="rbYellow" HorizontalAlignment="Left" Width="140"                             />
+            <RadioButton x:ConnectionId='9' Grid.Row="0" Grid.Column="1" Margin="5,5,5,5" Background="Red" Foreground="White" Content="Red" Name="rbRed"                          />
+            <RadioButton x:ConnectionId='10' Grid.Row="1" Grid.Column="0" Margin="5,5,5,5" Background="Blue" Foreground="White" Content="Blue" Name="rbBlue"                          />
+            <RadioButton x:ConnectionId='11' Grid.Row="1" Grid.Column="1" Margin="5,5,5,5" Background="Green" Foreground="White" Content="Green" Name="rbGreen"                            />
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Button x:ConnectionId='6' Grid.Row="0" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10,10,10,10" Content="Larger" Name="btnLarger"                         />
+            <Button x:ConnectionId='7' Grid.Row="1" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10,10,10,10" Content="Smaller" Name="btnSmaller"                           />
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="2">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Button x:ConnectionId='2' Grid.Row="0" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="2,2,2,2" Content="^" Name="btnUp"                     />
+            <Button x:ConnectionId='3' Grid.Row="1" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="2,2,2,2" Content="&lt;" Name="btnLeft"                        />
+            <Button x:ConnectionId='4' Grid.Row="1" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="2,2,2,2" Content="&gt;" Name="btnRight"                         />
+            <Button x:ConnectionId='5' Grid.Row="2" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="2,2,2,2" Content="v" Name="btnDown"                       />
+        </Grid>
+        <Canvas Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Name="cnvs" Margin="0">
+            <Rectangle Height="30" Width="100" Fill="White" Canvas.Top="185" Canvas.Left="250" Name="rect" Margin="0"/>
+        </Canvas>
+        <Button x:ConnectionId='1' Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,25" Height="100" Width="250" Content="Exit" Name="btnExit"                       />
+    </Grid>
+</Page>
+
