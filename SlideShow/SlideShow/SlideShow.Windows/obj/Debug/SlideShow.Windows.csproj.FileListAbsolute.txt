@@ -1,0 +1,128 @@
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\App.xbf
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShowPage.xbf
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.xr.xml
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.exe
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.pdb
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\resources.pri
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\AppxManifest.xml
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.build.appxrecipe
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.g.i.cs
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.g.cs
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.g.i.cs
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.g.cs
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.xaml
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.xaml
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.xbf
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.xbf
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShow.Windows.exe
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShow.Windows.pdb
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\priconfig.xml
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\priconfig.xml.intermediate
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\layout.resfiles
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\layout.resfiles.intermediate
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\resources.resfiles
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\resources.resfiles.intermediate
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\pri.resfiles
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\pri.resfiles.intermediate
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\qualifiers.txt
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\_SELA\IntroToProgramCSarp - Course1\OneDrive-2015-08-27\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\ProjectArchitectures.txt
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\App.xbf
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShowPage.xbf
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.xr.xml
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.exe
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.pdb
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\resources.pri
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\AppxManifest.xml
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.build.appxrecipe
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.g.i.cs
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.g.cs
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.g.i.cs
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.g.cs
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.xaml
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.xaml
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.xbf
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.xbf
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShow.Windows.exe
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShow.Windows.pdb
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\priconfig.xml
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\priconfig.xml.intermediate
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\layout.resfiles
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\layout.resfiles.intermediate
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\resources.resfiles
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\resources.resfiles.intermediate
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\pri.resfiles
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\pri.resfiles.intermediate
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\qualifiers.txt
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\_SELA\IntToCSBest\LabSolutions\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\App.xbf
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShowPage.xbf
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.xr.xml
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.exe
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.pdb
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\resources.pri
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\AppxManifest.xml
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.build.appxrecipe
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.g.i.cs
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.g.cs
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.g.i.cs
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.g.cs
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.xaml
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.xbf
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.xaml
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.xbf
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShow.Windows.exe
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShow.Windows.pdb
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\priconfig.xml
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\layout.resfiles
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\resources.resfiles
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\pri.resfiles
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\qualifiers.txt
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Dev\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\App.xbf
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShowPage.xbf
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.xr.xml
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.exe
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.pdb
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\resources.pri
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\AppxManifest.xml
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.build.appxrecipe
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.g.i.cs
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.g.cs
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.g.i.cs
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.g.cs
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.xaml
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.xaml
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\App.xbf
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShowPage.xbf
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShow.Windows.exe
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\SlideShow.Windows.pdb
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\priconfig.xml
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\layout.resfiles
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\resources.resfiles
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\pri.resfiles
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\qualifiers.txt
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\ProjectArchitectures.txt

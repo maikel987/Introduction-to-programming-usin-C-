@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SHACHAM8</Machine>
+    <WindowsUser>944</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3945069b-7077-424e-b892-5e37d3117d7f</PackageIdentityName>
+    <PackageIdentityPublisher>CN=dmitria</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.exe">
+      <PackagePath>SlideShow.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\Assets\033_Small.JPG">
+      <PackagePath>Assets\033_Small.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\Assets\075_Small.JPG">
+      <PackagePath>Assets\075_Small.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\Assets\095_Small.JPG">
+      <PackagePath>Assets\095_Small.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\Assets\101_Small.JPG">
+      <PackagePath>Assets\101_Small.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\Assets\Ashdot field 10_Small.JPG">
+      <PackagePath>Assets\Ashdot field 10_Small.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\Assets\Ashdot field 2_Small.JPG">
+      <PackagePath>Assets\Ashdot field 2_Small.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\Assets\Ashdot field 3_Small.JPG">
+      <PackagePath>Assets\Ashdot field 3_Small.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\Assets\Ashdot field 5_Small.JPG">
+      <PackagePath>Assets\Ashdot field 5_Small.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShow.Windows.xr.xml">
+      <PackagePath>SlideShow.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\SlideShowPage.xbf">
+      <PackagePath>SlideShowPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.000\Desktop\HomeWork\downloadExercise1\Module 03\FinalLabsSolutions\SlideShow\Starter\SlideShow\SlideShow\SlideShow.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
