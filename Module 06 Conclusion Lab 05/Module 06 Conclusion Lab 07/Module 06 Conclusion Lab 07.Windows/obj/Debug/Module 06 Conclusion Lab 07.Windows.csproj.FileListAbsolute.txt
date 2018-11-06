@@ -1,0 +1,32 @@
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\bin\Debug\App.xbf
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\bin\Debug\MainPage.xbf
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\bin\Debug\Module 06 Conclusion Lab 07.Windows.xr.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\bin\Debug\Module 06 Conclusion Lab 07.Windows.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\bin\Debug\Module 06 Conclusion Lab 07.Windows.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\bin\Debug\resources.pri
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\bin\Debug\Module 06 Conclusion Lab 07.Windows.build.appxrecipe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\App.g.i.cs
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\App.g.cs
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\App.xaml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\App.xbf
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\MainPage.xaml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\MainPage.xbf
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\Module 06 Conclusion Lab 07.Windows.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\Module 06 Conclusion Lab 07.Windows.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\priconfig.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\layout.resfiles
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\resources.resfiles
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\pri.resfiles
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\qualifiers.txt
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\04112017\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07\Module 06 Conclusion Lab 07.Windows\obj\Debug\ProjectArchitectures.txt
