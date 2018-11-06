@@ -1,0 +1,64 @@
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\App.xbf
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\MainPage.xbf
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\App1.Windows.exe
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\App1.Windows.pdb
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\resources.pri
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\AppxManifest.xml
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\bin\Debug\App1.Windows.build.appxrecipe
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\App.g.i.cs
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\App.g.cs
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\MainPage.g.cs
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\App.xaml
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\App.xbf
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\MainPage.xaml
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\MainPage.xbf
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\App1.Windows.exe
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\App1.Windows.pdb
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\priconfig.xml
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\layout.resfiles
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\resources.resfiles
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\pri.resfiles
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\qualifiers.txt
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\owner\documents\visual studio 2015\Projects\App1\App1\App1.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\bin\Debug\App.xbf
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\bin\Debug\MainPage.xbf
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\bin\Debug\App1.Windows.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\bin\Debug\App1.Windows.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\bin\Debug\resources.pri
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\bin\Debug\App1.Windows.build.appxrecipe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\App.g.i.cs
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\App.g.cs
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\App.xaml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\MainPage.xaml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\App.xbf
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\MainPage.xbf
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\App1.Windows.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\App1.Windows.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\priconfig.xml
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\layout.resfiles
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\resources.resfiles
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\pri.resfiles
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\qualifiers.txt
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Mod4 Lab1\App1\App1.Windows\obj\Debug\ProjectArchitectures.txt
